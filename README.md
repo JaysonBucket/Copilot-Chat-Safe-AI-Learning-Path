@@ -3,5 +3,7 @@ This repository contains sourcesto set up and implement a foundational learning 
 
 It's meant to educate the broad organization in basic workplace AI topics, foundational considerations as well as where to find and how to use Copilot Chat. 
 
+Voiceovers created with https://freereadtext.com/ 
+
 
 
