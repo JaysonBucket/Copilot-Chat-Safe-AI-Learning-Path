@@ -10,7 +10,7 @@ It's meant to educate the broad organization in basic workplace AI topics, found
 - Voiceovers created with freereadtext.com (great service, thanks to everyone making this possible)
 - SCORM // HTML course has been created with iSpring Suite 11 (Test Version) => watermark displayed within the course -> setup with your own, licensed LMS tool to prevent watermark
 
-Have a hands-on try at [https://www.jaysons.dev](https://jaysons.dev/)
+Have a hands-on try at https://jaysons.dev/LP_en
 
 - You will find the source file as PPTX within the repository
 
