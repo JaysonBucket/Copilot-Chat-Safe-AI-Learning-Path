@@ -8,12 +8,11 @@ It gives you everything needed to set it up on your own and customize - or the c
 It's meant to educate the broad organization in basic workplace AI topics, foundational considerations as well as where to find and how to use Copilot Chat. 
 
 - Voiceovers created with https://freereadtext.com/ (great service, thanks to everyone making this possible)
-- SCORM // HTML course has been created with Spring Suite 11 (Test Version) => watermark displayed within the course -> setup 
+- SCORM // HTML course has been created with Spring Suite 11 (Test Version) => watermark displayed within the course -> setup with your own, licensed LMS tool to prevent watermark
 
 Have a hands-on try at [https://www.jaysons.dev](https://jaysons.dev/)
 
 - You will find the source file as PPTX within the repository
-- also all voiceovers are available to use
 
 - currently only an English version is available
 - working on a German version
