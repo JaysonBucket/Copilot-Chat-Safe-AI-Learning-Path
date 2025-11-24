@@ -36,8 +36,8 @@ It's meant to educate the broad organization in basic workplace AI topics, found
 
 Course Structure, Modules and sites
 
+<img width="1046" height="1480" alt="image" src="https://github.com/user-attachments/assets/9004ba49-c71f-447d-8705-79099a3ea162" />
 
-<img width="1046" height="1509" alt="image" src="https://github.com/user-attachments/assets/ce9dacb0-398d-43d4-aa71-4ad372e76e50" />
 
 
 
