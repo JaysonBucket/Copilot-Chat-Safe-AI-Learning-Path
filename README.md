@@ -1,8 +1,11 @@
 # Copilot Chat Safe AI Learning Path
 
-- current version: 0.9
-- latest publication date: 17.11.2025
+- current version: 1.00
+- latest publication date: 24.11.2025
 - license: GPL 3
+
+Version history
+v1.0 - removed Copilot Notebooks as it is payd license functionality
 
 - working on v1.0 as well as a German version
 
