@@ -4,6 +4,14 @@
 - latest publication date: 24.11.2025
 - license: GPL 3
 
+Try Learningpath in Browser:
+English: https://jaysons.dev/LP_en/
+German: coming soon
+
+Download SCORM (external download source as per GitHub size limitations):
+English: https://jaysons.dev/downloads/en_SCORM.zip
+German: coming soon
+
 Version history
 v1.0 - removed Copilot Notebooks as it is payd license functionality
 
