@@ -13,7 +13,7 @@ English: https://jaysons.dev/downloads/en_SCORM.zip
 German: coming soon
 
 Version history
-v1.0 - removed Copilot Notebooks as it is payd license functionality
+v1.0 - removed Copilot Notebooks as it is paid license functionality
 
 - working on v1.0 as well as a German version
 
