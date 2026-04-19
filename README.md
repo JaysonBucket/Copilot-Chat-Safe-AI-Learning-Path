@@ -1,5 +1,9 @@
 # Copilot Chat Safe AI Learning Path
 
+This is part of a broader set of Copilot agent and learning materials. Check out my projects site to get an overview:
+https://www.jaysons.dev
+
+## Summary
 This repository contains sources to set up and implement a foundational learning path for end users. 
 It gives you everything needed to set it up on your own and customize - or the complete SCORM file to download and directly integrate in your LMS.
 
