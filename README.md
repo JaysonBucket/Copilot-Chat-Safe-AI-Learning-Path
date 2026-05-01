@@ -11,7 +11,7 @@ It's meant to educate the broad organization in basic workplace AI topics, found
 
 - current version: 1.00
 - latest publication date: 24.11.2025
-- license: GPL 3
+- license: MIT
 
 Try Learningpath in Browser: \
 English: https://jaysons.dev/LP_en/ \
